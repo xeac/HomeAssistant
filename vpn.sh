@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # install OpenVPN client on Ubuntu host;
 # login to ubuntu server;
 
